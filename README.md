@@ -4,7 +4,7 @@
 
 <p align="center">Esta imagen muestra como se vé el menú inicial.</p>
 
-<p align="center"><img src="" alt="menu-inical"></p>
+<img width="395" height="197" alt="Menu Inicial" src="https://github.com/user-attachments/assets/ef320940-a80b-408b-99c5-b558e441455d" />
 
 <hr>
 
